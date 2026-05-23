@@ -78,7 +78,7 @@ unnati
 
 ---
 
-## 📚 References
+##  References
 
 - Araci, Dogu. (2019). *FinBERT: Financial Sentiment Analysis with Pre-Trained Language Models.* ArXiv:1908.10063
 - Bhuiyan et al. (2025). *Deep Learning for Algorithmic Trading.* Array, vol. 26.
