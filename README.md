@@ -1,4 +1,4 @@
-# 🧠 Financial Sentiment Analysis — BERT
+#  Financial Sentiment Analysis — BERT
 
 A fine-tuned BERT model that classifies financial text into **Negative**, **Neutral**, or **Positive** sentiment with **96.48% accuracy**.
 
@@ -6,17 +6,17 @@ Built as part of an NLP + Finance course project exploring algorithmic trading s
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 | Model | Accuracy |
 |-------|----------|
 | Logistic Regression | 84.14% |
 | LSTM | 85.46% |
-| **BERT (this model)** | **96.48%** ✅ |
+| **BERT (this model)** | **96.48%**  |
 
 ---
 
-## 🏷️ Labels
+##  Labels
 
 | Label | Meaning |
 |-------|---------|
@@ -26,15 +26,15 @@ Built as part of an NLP + Finance course project exploring algorithmic trading s
 
 ---
 
-## 🤗 Model on Hugging Face
+##  Model on Hugging Face
 
 The trained model weights are hosted on Hugging Face:
 
-👉 **[STUDENT-135080/NLP_](https://huggingface.co/STUDENT-135080/NLP_)**
+ **[STUDENT-135080/NLP_](https://huggingface.co/STUDENT-135080/NLP_)**
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Install dependencies
 ```bash
@@ -62,7 +62,7 @@ print(result)
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 bert-financial-sentiment/
@@ -72,7 +72,7 @@ bert-financial-sentiment/
 
 ---
 
-## 👥 Team
+##  Team
 
 unnati
 
